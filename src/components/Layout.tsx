@@ -11,6 +11,7 @@ import {
   Menu,
   X,
   Sun,
+  Moon,
   Image,
 } from 'lucide-react';
 
